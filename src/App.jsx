@@ -251,16 +251,16 @@ export default function Portfolio() {
               <h3 className="text-xl font-bold mb-6">Backend</h3>
               <div className="space-y-4">
                 <div>
-                  <div className="flex justify-between mb-1"><span className="font-medium">Node.js</span><span>75%</span></div>
+                  <div className="flex justify-between mb-1"><span className="font-medium">Python</span><span>75%</span></div>
+                  <div className="w-full bg-gray-200 rounded-full h-2"><div className="bg-green-500 h-2 rounded-full" style={{width:'90%'}}></div></div>
+                </div>
+                <div>
+                  <div className="flex justify-between mb-1"><span className="font-medium">Node.js</span><span>80%</span></div>
                   <div className="w-full bg-gray-200 rounded-full h-2"><div className="bg-green-500 h-2 rounded-full" style={{width:'75%'}}></div></div>
                 </div>
                 <div>
-                  <div className="flex justify-between mb-1"><span className="font-medium">Express</span><span>80%</span></div>
-                  <div className="w-full bg-gray-200 rounded-full h-2"><div className="bg-green-500 h-2 rounded-full" style={{width:'80%'}}></div></div>
-                </div>
-                <div>
                   <div className="flex justify-between mb-1"><span className="font-medium">MongoDB</span><span>70%</span></div>
-                  <div className="w-full bg-gray-200 rounded-full h-2"><div className="bg-green-500 h-2 rounded-full" style={{width:'70%'}}></div></div>
+                  <div className="w-full bg-gray-200 rounded-full h-2"><div className="bg-green-500 h-2 rounded-full" style={{width:'30%'}}></div></div>
                 </div>
               </div>
             </div>
