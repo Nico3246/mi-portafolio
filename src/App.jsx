@@ -171,7 +171,7 @@ export default function Portfolio() {
               <p className="text-gray-600 mb-8 leading-relaxed">Mi enfoque se centra en escribir código limpio y mantenible, con especial atención al rendimiento y la experiencia del usuario. Disfruto trabajando en equipo y colaborando en proyectos desafiantes que me permitan crecer profesionalmente.</p>
               <div className="grid grid-cols-2 gap-4">
                 <div className="bg-gray-50 p-4 rounded-lg">
-                  <div className="text-primary font-bold text-xl mb-1">2+</div>
+                  <div className="text-primary font-bold text-xl mb-1">1+</div>
                   <div className="text-gray-600">Años de experiencia</div>
                 </div>
                 <div className="bg-gray-50 p-4 rounded-lg">
