@@ -324,7 +324,7 @@ export default function Portfolio() {
                     </div>
                     <div>
                       <h4 className="font-medium">Teléfono</h4>
-                      <a href="tel:+123456789" className="text-primary hover:underline">+34 644 87 89 46</a>
+                      <a href="tel:+123456789" className="text-primary hover:underline">+34 </a>
                     </div>
                   </div>
                   <div className="flex items-start">
